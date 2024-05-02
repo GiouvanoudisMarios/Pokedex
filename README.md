@@ -7,10 +7,10 @@ Clone or download this repository to your local machine.
 Open the index.html file in a web browser.
 In the input field provided, type the name of the Pokémon you want to fetch.
 
-Technologies Used
+Technologies Used:
 HTML
 CSS
 JavaScript
 
-API Used
+
 This application fetches data from the PokéAPI, a free-to-use Pokémon data API. It provides a wide range of Pokémon-related data, including information about individual Pokémon species.
